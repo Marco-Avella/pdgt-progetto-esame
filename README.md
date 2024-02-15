@@ -220,14 +220,14 @@ Content-Type: application/json
 
 {
   "data": "2024-02-15T17:00:00",
-  ...
+  "..."
   "nuovi_positivi": 3,
   "dimessi_guariti": 732317,
   "deceduti": 4555,
-  ...
+  "..."
   "totale_casi": 736812,
   "tamponi": 3800801
-  ...
+  "..."
 }
 
 ```
