@@ -234,7 +234,7 @@ Content-Type: application/json
 
 - **Risposta**
   ```http
-  Rapporto creato con successo.
+  "Rapporto creato con successo."
   ```
 
 ## Lettura dell'Ultimo Rapporto
